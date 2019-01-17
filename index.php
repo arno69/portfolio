@@ -47,28 +47,28 @@
                 <img class="rounded-circle" src="img/blog.png" alt="Generic placeholder image" width="140" height="140">
                 <h2>Blog</h2>
                 <p class="p-3">Projet de blog realisé pendant la formation que j'ai suivi.</p>
-                <p><a class="btn btn-primary" href="http://92.222.64.223/~arno/blogPerso/index.php" role="button">Afficher &raquo;</a></p>
+                <p><a class="btn btn-primary" href="http://arno.nepsod.fr/blogPerso/index.php" role="button">Afficher &raquo;</a></p>
             </div><!-- /.col-lg-4 -->
 
             <div class="col-lg-3 mt-5 p-0 text-center"><!-- 2rond -->
                 <img class="rounded-circle" src="img/index.png" alt="Generic placeholder image" width="140" height="140">
                 <h2>BlueEasy</h2>
                 <p class="p-3">Projet réalisé en debut de la formation basé sur le design.</p>
-                <p><a class="btn btn-primary" href="http://92.222.64.223/~arno/BlueEasy/site/index.html" role="button">Afficher &raquo;</a></p>
+                <p><a class="btn btn-primary" href="http://arno.nepsod.fr/BlueEasy/site/index.html" role="button">Afficher &raquo;</a></p>
             </div><!-- /.col-lg-4 -->
 
             <div class="col-lg-3 mt-5 p-0 text-center"><!-- 3rond -->
                 <img class="rounded-circle" src="img/morpion.jpg" alt="Generic placeholder image" width="140" height="140">
                 <h2>Morpion</h2>
                 <p class="p-3">Projet jeux du morpion pour l'apprentissage du javascript.</p>
-                <p><a class="btn btn-primary" href="http://92.222.64.223/~arno/morpion/index.html" role="button">Afficher &raquo;</a></p>
+                <p><a class="btn btn-primary" href="http://arno.nepsod.fr/morpion/index.html" role="button">Afficher &raquo;</a></p>
             </div>
 
             <div class="col-lg-3 mt-5 p-0 text-center"><!-- 4rond -->
                 <img class="rounded-circle" src="img/transfert.jpg" alt="Generic placeholder image" width="140" height="140">
                 <h2>Transfert de fichier</h2>
                 <p class="p-3">Page web de transfert de fichier, c'est projet réalisé en groupe.</p>
-                <p><a class="btn btn-primary" href="http://92.222.64.223/~arno/wetransfer/index.php" role="button">Afficher &raquo;</a></p>
+                <p><a class="btn btn-primary" href="http://arno.nepsod.fr/wetransfer/index.php" role="button">Afficher &raquo;</a></p>
             </div><!-- /.col-lg-4 --><!-- /.col-lg-4 -->
         </div><!-- /.row -->
 
@@ -76,7 +76,7 @@
             <div class="col-12 p-0 text-center pt-5"><!-- 5rond -->
                 <img class="rounded-circle" src="img/plus.png" alt="Generic placeholder image" width="140" height="140">
                 <h2>Autre projets réalisé</h2>
-                <p class="pt-4"><a class="btn btn-primary" href="http://92.222.64.223/~arno/portfolio/projets.php" role="button">Afficher &raquo;</a></p>
+                <p class="pt-4"><a class="btn btn-primary" href="http://arno.nepsod.fr/portfolio/projets.php" role="button">Afficher &raquo;</a></p>
             </div>
         </div>
     </div>
@@ -94,7 +94,7 @@
             <img class="rounded-circle" src="img/mail.png" alt="Generic placeholder image" width="140" height="140">
             <h2>Contact</h2>
             <p class="p-3">Formulaire de contact pour pouvoir me joindre.</p>
-            <p><a class="btn btn-primary" href="http://92.222.64.223/~arno/portfolio/contact.php" role="button">Afficher &raquo;</a></p>
+            <p><a class="btn btn-primary" href="http://arno.nepsod.fr/portfolio/contact.php" role="button">Afficher &raquo;</a></p>
         </div><!-- /.col-lg-4 -->
 
     </div><!-- /.row -->

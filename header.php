@@ -47,7 +47,7 @@
             <div class="row">
                 <div class="col-12 p-0">
                     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-                        <a class="navbar-brand text-light" href="http://92.222.64.223/~arno/portfolio/index.php">
+                        <a class="navbar-brand text-light" href="http://arno.nepsod.fr/portfolio/index.php">
                             <img src="img/portfolio.png" width="30" height="30" class="d-inline-block align-top" alt="">
                             Portfolio Arno
                         </a>
@@ -57,7 +57,7 @@
                         <div class="collapse navbar-collapse" id="navbarNav">
                             <ul class="navbar-nav">
                                 <li class="nav-item active">
-                                    <a class="nav-link" href="http://92.222.64.223/~arno/portfolio/projets.php">Projets</a>
+                                    <a class="nav-link" href="http://arno.nepsod.fr/portfolio/projets.php">Projets</a>
                                 </li>
                             </ul>
                         </div>
